@@ -156,7 +156,7 @@ Feel free to reach out.
 <img src="https://img.shields.io/badge/Email-Support%40nyroxhub.bond-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><a href="https://discord.com">
 <img src="https://img.shields.io/badge/Discord-MatrixYT-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a></div>GitHub: "github.com/MatrixLabss" (https://github.com/MatrixLabss)
+</a></div>GitHub: (github.com/MatrixLabss)[https://github.com/MatrixLabs]
 
 Discord: "MatrixYT"
 
