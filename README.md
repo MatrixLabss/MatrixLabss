@@ -201,12 +201,11 @@ The dedicated Matrix Panel community is coming soon.
 📩 Contact Information
 
 Platform| Contact
-GitHub| "MatrixLabss" (https://github.com/MatrixLabss)
-Personal Discord| "@matrixdevprog" (https://discord.com/users/1391705452240437290)
-Discord User ID| "1391705452240437290"
-Official Discord| "Join Matrix Community" (https://discord.gg/CFMZNE6Ux)
-Matrix Panel Discord| Coming Soon
-Support Email| "support@nyroxhub.bond" (mailto:support@nyroxhub.bond)
+GitHub| [MatrixLabs](https://github.com/MatrixLabss)
+Personal Discord|[@matrixdevprog](https://discord.com/users/1391705452240437290)
+Official Discord| [Join Matrix Community](https://discord.gg/CFMZNE6Ux)
+Matrix Panel Discord| **Coming Soon**
+Support Email| [support@nyroxhub.bond](mailto:support@nyroxhub.bond)
 
 For technical support, business inquiries, and collaboration opportunities, feel free to contact me through the support email.
 
